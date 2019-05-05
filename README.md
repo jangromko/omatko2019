@@ -1,6 +1,12 @@
 # Dysonanse nie tylko poznawcze. Muzyka generatywna (OMatKo 2019)
 Niniejsze repozytorium zawiera prezentację i kod źródłowy z Ogólnopolskiej Matematycznej Konferencji Studentów „OMatKo!!!” 2019 we Wrocławiu, z referatu „Dysonanse nie tylko poznawcze. Muzyka generatywna”
 
+# Baza treningowa
+Do wytrenowania sieci będziemy potrzebować bazy przynajmniej kilkudziesięciu plików MIDI. Skąd je wziąć? Jest kilka opcji, które można dowolnie łączyć, a kilka z nich przedstawiam poniżej:
+* strona [Classical Piano Midi](http://www.piano-midi.de/), zawierająca wiele utworów należących do gatunku muzyki klasycznej,
+* zbiór utworów dostępny w repoztorium wspomnianym w sekcji _Źródła_,
+* strona programu [MuseScore](https://musescore.com/), będąca jednym z najbogatszych źródeł takich plików (można tam znaleźć tysiace partytur, dostępnych również w wersji MIDI).
+
 # Uruchamianie skryptów
 
 ## Trenowanie sieci
@@ -23,6 +29,10 @@ Do uruchomienia skryptu potrzebne będą biblioteki:
 * music21.
 
 Każdą z nich można zainstalować poprzez standardowe polecenie `pip install`.
+
+# Po wygenerowaniu utworu
+
+Po wygenerowaniu utworu otrzymujemy plik MIDI. Można go zostawić tak, jak jest, natomiast lepszym pomysłem jest zaimportowanie go do programu [MuseScore](https://musescore.com/), który przetworzy go na partyturę i pozwoli między innymi na eksperymenty z wyborem instrumentu czy tempem.
 
 # Źródła
 
