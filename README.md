@@ -24,13 +24,13 @@ Do uruchomienia skryptu potrzebne będą biblioteki:
 
 Każdą z nich można zainstalować poprzez standardowe polecenie `pip install`.
 
-## Źródła
+# Źródła
 
 W znacznej części kod źródłowy w tym repozytorium oparty jest o repozytorium [Classical Piano Composer](https://github.com/Skuldur/Classical-Piano-Composer).
 
 Pełną listę źródeł można znaleźć także na przedostatnim slajdzie prezentacji.
 
-## Uwagi końcowe
+# Uwagi końcowe
 
 Kod źródłowy jest dość dokładnie opisany i mam nadzieję, że nie będzie problemu z jego zrozumieniem.
 
