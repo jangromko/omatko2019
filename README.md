@@ -4,7 +4,7 @@ Niniejsze repozytorium zawiera prezentację i kod źródłowy z Ogólnopolskiej 
 # Baza treningowa
 Do wytrenowania sieci będziemy potrzebować bazy przynajmniej kilkudziesięciu plików MIDI. Skąd je wziąć? Jest kilka opcji, które można dowolnie łączyć, a kilka z nich przedstawiam poniżej:
 * strona [Classical Piano Midi](http://www.piano-midi.de/), zawierająca wiele utworów należących do gatunku muzyki klasycznej,
-* zbiór utworów dostępny w repoztorium wspomnianym w sekcji _Źródła_,
+* zbiór utworów dostępny w repozytorium wspomnianym w sekcji _Źródła_,
 * strona programu [MuseScore](https://musescore.com/), będąca jednym z najbogatszych źródeł takich plików (można tam znaleźć tysiace partytur, dostępnych również w wersji MIDI).
 
 # Uruchamianie skryptów
